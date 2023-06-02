@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/nature-sounds.ogg-83f18c35b01bec3b143a376507edc0da.oggstr"
+
+[deps]
+
+source_file="res://assets/audio/nature-sounds.ogg"
+dest_files=[ "res://.import/nature-sounds.ogg-83f18c35b01bec3b143a376507edc0da.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

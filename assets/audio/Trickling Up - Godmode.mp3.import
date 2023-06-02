@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Trickling Up - Godmode.mp3-25127b3d6d2c2462d487d202ea04fa80.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/Trickling Up - Godmode.mp3"
+dest_files=[ "res://.import/Trickling Up - Godmode.mp3-25127b3d6d2c2462d487d202ea04fa80.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
