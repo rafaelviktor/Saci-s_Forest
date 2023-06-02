@@ -3,7 +3,7 @@ extends KinematicBody2D
 var velocity = Vector2.ZERO
 var move_speed = 580
 var gravity = 400
-var jump_force = -250
+var jump_force = -220
 var is_grounded = false
 onready var raycasts = $raycasts
 
